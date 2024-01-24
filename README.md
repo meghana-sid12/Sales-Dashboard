@@ -21,11 +21,13 @@ https://drive.google.com/drive/folders/1xU91jKUknFRtBlC9vrKUSfhSC9_kvb30
 
 To view the dashboards, follow the links below:
 
--[Demographic Overview]((https://public.tableau.com/app/profile/meghana5898/viz/demographic-sales-data/DemographicAnalysis?publish=yes))
+-[[Demographic Overview](https://public.tableau.com/app/profile/meghana5898/viz/demographic-sales-data/DemographicAnalysis?publish=yes)]
 
-![Product Analysis](https://public.tableau.com/app/profile/meghana5898/viz/Productanalysis-sales-data/Productanalysis?publish=yes)
+-[[Product Analysis](https://public.tableau.com/app/profile/meghana5898/viz/Productanalysis-sales-data/Productanalysis?publish=yes)]
 
-![Time Analysis](https://public.tableau.com/app/profile/meghana5898/viz/Timeanalysis-sales-data/TimeAnalysis?publish=yes)
+-[[Time Analysis](https://public.tableau.com/app/profile/meghana5898/viz/Timeanalysis-sales-data/TimeAnalysis?publish=yes)]
+
+-[[Over all Sales Analysis](https://public.tableau.com/app/profile/meghana5898/viz/overall-sales-data-analysis/Dashboard4?publish=yes)]
 
 ## Recommendations and Insights
 

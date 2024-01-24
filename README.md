@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1xU91jKUknFRtBlC9vrKUSfhSC9_kvb30
 
 To view the dashboards, follow the links below:
 
-![Demographic Overview]((https://public.tableau.com/app/profile/meghana5898/viz/demographic-sales-data/DemographicAnalysis?publish=yes))
+-[Demographic Overview]((https://public.tableau.com/app/profile/meghana5898/viz/demographic-sales-data/DemographicAnalysis?publish=yes))
 
 ![Product Analysis](https://public.tableau.com/app/profile/meghana5898/viz/Productanalysis-sales-data/Productanalysis?publish=yes)
 

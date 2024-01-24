@@ -1,5 +1,5 @@
 # Sales-Dashboard
-# E-commerce Sales Data Visualization with Tableau
+# E-commerce Sales Data Visualization with Tableau📺
 
 This project uses Tableau to analyze and visualize the sales data of an e-commerce company, incorporating information from demographic, product, and transaction datasets.
 
@@ -7,11 +7,11 @@ This project uses Tableau to analyze and visualize the sales data of an e-commer
 
 The primary objective of this project is to gain insights into the sales performance of the e-commerce company by leveraging Tableau for data visualization. The project focuses on three key aspects:
 
-1. **Demographic Overview Dashboard:** Explore the impact of customer demographics on buying behaviors. Visualize correlations between demographic factors and purchase patterns to identify potential target segments.
+1. **Demographic Overview Dashboard:** Explore the impact of customer demographics on buying behaviors. Visualize correlations between demographic factors and purchase patterns to identify potential target segments. 🚗👩
 
-2. **Product Analysis Dashboard:** Dive into product-related insights, including top-selling products, popular brands, and department-wise sales comparisons. Understand customer preferences within product categories to optimize inventory and marketing strategies.
+2. **Product Analysis Dashboard:** Dive into product-related insights, including top-selling products, popular brands, and department-wise sales comparisons. Understand customer preferences within product categories to optimize inventory and marketing strategies. 🍔🍕
 
-3. **Time Analysis Dashboard:** Visualize sales trends over time to identify patterns, seasonality, and overall performance. Use time-based insights to make informed decisions about promotions, discounts, and inventory management.
+3. **Time Analysis Dashboard:** Visualize sales trends over time to identify patterns, seasonality, and overall performance. Use time-based insights to make informed decisions about promotions, discounts, and inventory management. 🌖🌛☔
 
 __Dataset:__
 
@@ -48,18 +48,3 @@ To view the dashboards, follow the links below:
 - **Promotional Timing:** Schedule promotions during periods of historically high sales to maximize impact. Analyze the effectiveness of past promotions to refine future campaigns.
 - **Operational Efficiency:** Use time-based insights to streamline operations, allocate resources efficiently, and enhance overall business performance.
 
-
-
-
-
-demographic overview
-https://public.tableau.com/app/profile/meghana5898/viz/demographic-sales-data/DemographicAnalysis?publish=yes
-
-product analysis overview
-https://public.tableau.com/app/profile/meghana5898/viz/Productanalysis-sales-data/Productanalysis?publish=yes
-
-time analysis overview
-https://public.tableau.com/app/profile/meghana5898/viz/Timeanalysis-sales-data/TimeAnalysis?publish=yes
-
-overall sales analysis
-https://public.tableau.com/app/profile/meghana5898/viz/overall-sales-data-analysis/Dashboard4?publish=yes

@@ -8,5 +8,5 @@ This project uses Pwer BI to analyze and visualize the sales data of an e-commer
 
 To view the dashboards, click the link below:
 
-![Image Description](images/image_filename.png)
+![Image Description](images/sales_dashboard.png)
 
